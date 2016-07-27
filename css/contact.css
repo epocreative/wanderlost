@@ -1,0 +1,125 @@
+@import url(https://fonts.googleapis.com/css?family=Prompt:400,100,200,700);
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.clock {
+	background-image: url("../images/clock-view.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 940px;
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	color: #fff;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 100;
+	font-size: 100px;
+	letter-spacing: 2px;
+	line-height: 225px;
+	padding-left: 20px;
+}
+
+#clock-text {
+	width: 960px;
+	margin: auto;
+	margin-top: 30px;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 200;
+	font-size: 22px;
+	word-spacing: -3px;
+	line-height: 30px;
+	color: #999;
+}
+
+h4 {
+	font-family: 'Prompt', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	letter-spacing: 1px;
+	word-spacing: -5px;
+	line-height: 30px;
+	color: #000;
+	display: inline;
+
+}
+
+h5 {
+	font-family:'Prompt', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	word-spacing: -4px;
+	margin-bottom: 5px;
+	color: #3330b3;
+}
+
+#container {
+	width: 960px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+#process {
+
+}
+
+.steps {
+	width: 33.33%;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	box-sizing: border-box;
+}
+
+.steps p {
+	font-family: "arial";
+	font-size: 14px;
+	line-height: 20px;
+	color: #999;
+}
+
+.steps .maintain-height {
+	height: 80px;
+	margin-bottom: 25px;
+}
+
+.steps .image-wrapper {
+	display: none;
+}
+
+.steps img {
+	width: 80px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	display: block;
+}
+
+#response-form {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+form {
+	margin-top: 20px;
+}
+form p {
+	font-size: 14px;
+	font-family: "arial";
+	color: #999;	
+}
+.input-field {
+	font-size: 14px;
+	font-family: "arial";
+	color: #999;
+	width: 590px;
+	padding: 12px 0px 12px 12px;
+	background-color: #f0f0ed;
+	border: 1px solid #ccc;
+	margin-bottom: 15px;
+

@@ -1,0 +1,111 @@
+
+
+.img {
+	float: left;
+	width: 33.3%;
+
+}
+
+
+.img-container {
+	
+	float: left;
+	width: 33.3%;
+	height: 200px;
+	background-size: cover;
+}
+
+.img-content {
+	display: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 200px;
+	color: #fff;
+	font-family: 'Muli', sans-serif;
+	font-size: 20px;
+
+}
+
+.i1  {
+background-image: url(../images/Grand_Canyon.jpg);
+clear: both;
+
+
+}
+
+.i2 {
+background-image: url(../images/Egypt.jpg);
+
+}
+
+.i3 {
+background-image: url(../images/Norway.jpg);
+
+}
+
+.i4 {
+background-image: url(../images/Puerto_Rico.jpg);
+
+}
+
+.i5 {
+background-image: url(../images/China.jpg);
+
+}
+
+.i6 {
+background-image: url(../images/Australia.jpg);
+
+}
+
+.i7 {
+background-image: url(../images/India.jpg);
+
+}
+
+.i8 {
+background-image: url(../images/Easter_Island.jpg);
+
+}
+
+.i9 {
+background-image: url(../images/Machu_Picchu.jpg);
+
+}
+
+.i10 {
+background-image: url(../images/Mount_Everest.jpg);
+
+}
+
+.i11 {
+background-image: url(../images/Pompeii.jpg);
+
+}
+
+.i12 {
+background-image: url(../images/Thailand.jpg);
+
+}
+
+.i13{
+background-image: url(../images/Brazil.jpg);
+
+}
+
+.i14 {
+background-image: url(../images/South_Africa.jpg);
+
+}
+
+.i15 {
+background-image: url(../images/Philippines.jpg);
+
+}
+
+
+
+
+
+

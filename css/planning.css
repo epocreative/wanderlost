@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Prompt:400,100,200,700);
+
+
+body {
+
+	background-image: url(../images/Grand_Canyon.jpg);
+
+
+}
+
+
+.p3 {
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	float: left;
+}
+
+.planh {
+	margin-top: 500px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 200;
+	padding-left: 10px;
+	color: #000;
+	text-align: left;
+
+
+}
+
+.gal2 {
+	clear: both;
+
+}
+
+
+.img1 {
+	width: 175px;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: 2px solid white;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+
+
+}
+form {
+
+	margin-top: 60px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+
+}
+
+.input-f {
+	font-size: 14px;
+	font-family: sans-serif;
+	width: 300px;
+	padding: 10px 5px 10px 10px;
+	background-color: #f0f0ed;
+	border: 1px solid #ccc;
+
+
+
+
+}
+
